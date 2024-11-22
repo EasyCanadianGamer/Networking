@@ -1,0 +1,11 @@
+Our group is a trio, so me (Eyad), Yasir, and Humza worked on project 1 together. 
+Since there was three classes, main class which is where the WebServer relies, and the rest are
+HttpRequests, and MovedRequests. So we all splitted one, I did the main class, WebServer  whil Humza did 
+the HttpRequests, and Yasir did the MovedRequest. THe WebServer part wasn't that hard to implement, so for me
+it wasn't that bad. Humza had some trouble with the HttpRequests, where he couldn't see the index.html, but it was an easy
+fix. Well not a fix, but more of understanding how htmls works as well for him. He kept typing localhost:8888 and the the page
+was not showing. I told him to do /index.html at the end and it worked out. Yasir understood pretty quickly on the MovedRequest, compared 
+to the HttpRequest, this was easier.  We also have snapshots of everything from each part as well. Part A's snapshot was just the terminal, it showed
+the information of the web I was on and the device. Part B was just setting the webpage, everything worked, as well as the links. For Part C, the 
+MovedRequest, we didn't really knew how to share a snapshot, so we just snapshotted the header when we switch the 8888 to 5555, some browsers gives you
+a little preview on the favicon since the redirect was to Google.com, the favicon switch to the Google's logo when I did 5555, the logo swich to Google's logo.
